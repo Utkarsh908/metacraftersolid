@@ -18,7 +18,7 @@ To obtain the Solidity code, you can either clone this repository or copy the pr
 2. Interact with the contract using the `mint` and `burn` functions.
 3. Monitor the token details such as balances, name, symbol, and total supply.
 
-##bash
+'''bash
 # Example commands for deploying the contract (using Truffle)
 $ truffle migrate --network development
 
@@ -32,4 +32,7 @@ $ npx hardhat --help
 
 ## License
 
-This project is licensed under the [UTKARSH GUPTA] License - see the LICENSE.md file for details
+This project is licensed under the 
+
+[UTKARSH GUPTA](guptautkarsh995651@gmail.com)" [MIT License](LICENSE.md)
+
